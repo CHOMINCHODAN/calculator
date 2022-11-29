@@ -23,5 +23,8 @@ class Calcul:  # 클래스 선언
     def div(self):
         result = self.first / self.second
         return result
-
+    
+    #cli에서 만들기
+    
+    
 
