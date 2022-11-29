@@ -26,6 +26,21 @@ class Calcul:  # 클래스 선언
     
     #cli에서 만들기
 
+a = Calcul(15,20)    # 이제 클래스에 관련한 객체 (인스턴스 생성)
+# a.setdata(15,20) # 객체 안에 (first 와 second 생성 )
+print(a.add()) # 함수 출력해준다.
+
+a = Calcul(15,5)
+# a.setdata(15,5)
+print(a.mul())
+
+a = Calcul(100,1)
+# a.setdata(100,1)
+print(a.sub())
+
+a = Calcul(99,3)
+#a.setdata(99,3)
+print(a.div())
 
     
     
