@@ -25,6 +25,8 @@ class Calcul:  # 클래스 선언
         return result
     
     #cli에서 만들기
+
+
     
     
 
