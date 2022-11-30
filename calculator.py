@@ -1,5 +1,4 @@
 class Calcul:  # 클래스 선언
-
     def __init__(self, first, second):  # 함수(메소드) 생성 ( 맨 처음 오는 매개 변수 객체 그 자체 두에 오는건 값들)
         self.first = first  # 매소드 수행문
         self.second = second  # 매소드 수행문
@@ -46,6 +45,5 @@ print(a.div())
 
 
 
-    
-    
+
 
