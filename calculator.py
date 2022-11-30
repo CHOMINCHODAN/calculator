@@ -42,6 +42,10 @@ a = Calcul(99,3)
 #a.setdata(99,3)
 print(a.div())
 
+#
+
+
+
     
     
 
